@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft and coding
 - 🌱 I’m currently learning life and what it has to offer
 - 💞️ I love u
-- 📫 https://wizzyhayli.carrd.co
+- 📫 https://wizzyhayli2.carrd.co
 
 <!---
 uwuImWizzy/uwuImWizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
